@@ -8,7 +8,7 @@ import java.util.Date;
  */
 
 /**
- *
+ * all aspects for user login
  */
 public class User {
 

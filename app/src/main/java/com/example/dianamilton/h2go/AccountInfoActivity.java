@@ -14,6 +14,9 @@ import android.widget.Spinner;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
+/**
+ * save everything for account and push everything to a list when save buttons
+ */
 public class AccountInfoActivity extends AppCompatActivity {
     private static final String TAG = "AccountInfoActivity"; //defines activity
     @Bind(R.id.btn_save) Button _saveButton;

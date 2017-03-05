@@ -22,6 +22,9 @@ import java.util.ArrayList;
 import butterknife.ButterKnife;
 import butterknife.Bind;
 
+/**
+ * registration page, calls for XML page
+ */
 public class SignupActivity extends AppCompatActivity {
     private static final String TAG = "SignupActivity"; //defines activity
     private Spinner userSpinner; //defines user spinner

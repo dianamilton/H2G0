@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Button;
 
 /**
- * page for logout screen after login
+ * page to redirect to settings, logout, report, list, map
  */
 public class MainActivity extends AppCompatActivity {
     public static ReportList reportList = new ReportList();

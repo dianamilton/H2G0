@@ -31,7 +31,9 @@ import static com.example.dianamilton.h2go.MainActivity.reportList;
 
 import java.util.ArrayList;
 
-
+/**
+ * plugs in google api
+ */
 public class WaterMapsActivity extends FragmentActivity implements OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,

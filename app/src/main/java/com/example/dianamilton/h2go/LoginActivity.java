@@ -16,7 +16,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
+/**
+ * login page for user, sends to registration page if nonregistered user, checks user and passcode
+ */
 public class LoginActivity extends AppCompatActivity {
     private static final String TAG = "LoginActivity"; //defines activity
     private static final int REQUEST_SIGNUP = 0; //defines signup request to switch screens

@@ -17,6 +17,9 @@ import butterknife.Bind;
 
 import static com.example.dianamilton.h2go.MainActivity.userList;
 
+/**
+ * list view to organize users into a list
+ */
 public class UserActivityList extends AppCompatActivity {
     ListView listView ;
     @Bind(R.id.btn_edit) Button _editButton;

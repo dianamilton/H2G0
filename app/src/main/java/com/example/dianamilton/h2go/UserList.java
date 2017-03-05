@@ -6,6 +6,9 @@ import java.util.ArrayList;
  * Created by dianamilton on 3/2/17.
  */
 
+/**
+ * user list method, add user, get user - saves user in arraylist/array
+ */
 public class UserList {
     ArrayList<User> userList = new ArrayList<>();
 
