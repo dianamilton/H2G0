@@ -54,6 +54,16 @@
 
         <!-- Submit Button -->
 
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_type" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_condition" />
+
         <android.support.v7.widget.AppCompatButton
             android:id="@+id/btn_submit"
             android:layout_width="fill_parent"

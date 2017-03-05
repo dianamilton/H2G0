@@ -25,6 +25,9 @@ import butterknife.Bind;
 public class SignupActivity extends AppCompatActivity {
     private static final String TAG = "SignupActivity"; //defines activity
     private Spinner userSpinner; //defines user spinner
+    private EditText nameField;
+    private EditText emailField;
+    private EditText passcodeField;
 
     //defines id as xml variable
     @Bind(R.id.input_name) EditText _nameText;
@@ -32,6 +35,8 @@ public class SignupActivity extends AppCompatActivity {
     @Bind(R.id.input_password) EditText _passwordText;
     @Bind(R.id.btn_signup) Button _signupButton;
     @Bind(R.id.link_login) TextView _loginLink;
+
+    private User user = new User();
 
     /**
      * creating spinner, buttons, links
@@ -55,6 +60,11 @@ public class SignupActivity extends AppCompatActivity {
         ArrayAdapter<SpinnerEnum> dataAdapter = new ArrayAdapter<SpinnerEnum>(this, android.R.layout.simple_spinner_item, list); //layout defining spinner
         dataAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item); //layout defining spinner
         userSpinner.setAdapter(dataAdapter); //set spinner
+
+        nameField = (EditText) findViewById(R.id.input_name);
+        emailField = (EditText) findViewById(R.id.input_email);
+        passcodeField = (EditText) findViewById(R.id.input_password);
+        userSpinner = (Spinner) findViewById(R.id.spinner_type);
 
         /**
          * sets up Sign Up Button, calls for signup method
@@ -101,6 +111,11 @@ public class SignupActivity extends AppCompatActivity {
         String email = _emailText.getText().toString();
         String password = _passwordText.getText().toString();
 
+        user.setName(nameField.getText().toString());
+        user.setEmail(emailField.getText().toString());
+        user.setPasscode(passcodeField.getText().toString());
+        user.setType(userSpinner.getSelectedItem().toString());
+        MainActivity.userList.addUser(user);
 
         new android.os.Handler().postDelayed(
                 new Runnable() {

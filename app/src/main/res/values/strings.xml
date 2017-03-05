@@ -17,4 +17,6 @@
     <string name="title_activity_setting">SettingActivity</string>
     <string name="title_activity_account_info">AccountInfoActivity</string>
     <string name="title_activity_passcode">PasscodeActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_water_maps">WaterMap</string>
 </resources>

@@ -35,7 +35,13 @@
             android:text="Find Water Near Me"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btn_map" />
+            android:id="@+id/btn_list" />
+
+        <Button
+            android:id="@+id/btn_watermap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Water Map" />
 
         <Button
         android:text="Log Out"

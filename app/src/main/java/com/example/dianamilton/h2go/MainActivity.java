@@ -14,11 +14,15 @@ import android.widget.Button;
  * page for logout screen after login
  */
 public class MainActivity extends AppCompatActivity {
+    public static ReportList reportList = new ReportList();
+    public static UserList userList = new UserList();
+
     private static final String TAG = "LogoutActivity"; //defines activity
     @Bind(R.id.btn_logout) Button _logoutButton; //defines logout button
     @Bind(R.id.btn_report) Button _reportButton; //defines logout button
     @Bind(R.id.btn_settings) Button _settingsButton;
-
+    @Bind(R.id.btn_list) Button _listButton;
+    @Bind(R.id.btn_watermap) Button _waterMapButton;
 
     /**
      * creating button for logout
@@ -29,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_logout);
         ButterKnife.bind(this);
-
         /**
          * sets up Logout Button, calls for switch screen to login page
          */
@@ -53,6 +56,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), SettingActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        _listButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ListActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        _waterMapButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), WaterMapsActivity.class);
                 startActivity(intent);
             }
         });

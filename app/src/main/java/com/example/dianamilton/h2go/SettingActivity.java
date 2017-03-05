@@ -37,7 +37,7 @@ public class SettingActivity extends AppCompatActivity {
         _accountInfoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), AccountInfoActivity.class);
+                Intent intent = new Intent(getApplicationContext(), UserActivityList.class);
                 startActivity(intent);
             }
         });
