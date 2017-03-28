@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     @Bind(R.id.btn_watermap) Button _waterMapButton;
     @Bind(R.id.btn_qualityReport) Button _qualityReport;
 
+
     /**
      * Connects activity page to mainactivity layout xml
      * Logout Button sends to the login page
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
      */
     @Override
     public void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_logout);
         ButterKnife.bind(this);
@@ -103,6 +105,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+
+
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

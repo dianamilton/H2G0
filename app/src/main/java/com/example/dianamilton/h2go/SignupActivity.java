@@ -8,8 +8,11 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -41,6 +44,10 @@ public class SignupActivity extends AppCompatActivity {
 
     private User user = new User();
 
+
+    private int count;
+    private MyDatabase database;
+
     /**
      * Connects page to layout for activity signup
      * Makes spinner for type of worker, fills spinner with TypeEnum information
@@ -51,6 +58,8 @@ public class SignupActivity extends AppCompatActivity {
      */
     @Override
     public void onCreate(Bundle savedInstanceState) {
+        database = new MyDatabase(this);
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
         ButterKnife.bind(this);
@@ -96,6 +105,93 @@ public class SignupActivity extends AppCompatActivity {
     }
 
 
+    private void addNewStudent() {
+        database.createStudent(nameField.getText().toString(), emailField.getText().toString(), passcodeField.getText().toString(), null, null, userSpinner.getSelectedItem().toString() );
+        count++;
+    }
+
+    private void setupRecyclerView(RecyclerView recyclerView) {
+        recyclerView.setAdapter(new SimpleStudentRecyclerViewAdapter(database.getAllStudents()));
+    }
+
+
+    private class SimpleStudentRecyclerViewAdapter extends RecyclerView.Adapter<SimpleStudentRecyclerViewAdapter.ViewHolder> {
+        /**
+         * Collection of the items to be shown in this list.
+         */
+        private final List<User> mStudents;
+
+        /**
+         * set the items to be used by the adapter
+         *
+         * @param items the list of items to be displayed in the recycler view
+         */
+        public SimpleStudentRecyclerViewAdapter(List<User> items) {
+            mStudents = items;
+        }
+
+        @Override
+        public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+            /*
+
+              This sets up the view for each individual item in the recycler display
+              To edit the actual layout, we would look at: res/layout/course_list_content.xml
+              If you look at the example file, you will see it currently just 2 TextView elements
+             */
+            View view = LayoutInflater.from(parent.getContext())
+                    .inflate(R.layout.course_list_content, parent, false);
+            return new ViewHolder(view);
+        }
+
+        @Override
+        public void onBindViewHolder(final ViewHolder holder, int position) {
+             /*
+            This is where we have to bind each data element in the list (given by position parameter)
+            to an element in the view (which is one of our two TextView widgets
+             */
+            //start by getting the element at the correct position
+            holder.mStudent = mStudents.get(position);
+            /*
+              Now we bind the data to the widgets.  In this case, pretty simple, put the id in one
+              textview and the string rep of a course in the other.
+             */
+            holder.mContentView.setText(mStudents.get(position).toString());
+
+            Log.d("APP", "Binding Student: " + mStudents.get(position).toString());
+
+        }
+
+
+        @Override
+        public int getItemCount() {
+            return mStudents.size();
+        }
+
+        /**
+         * This inner class represents a ViewHolder which provides us a way to cache information
+         * about the binding between the model element (in this case a Course) and the widgets in
+         * the list view (in this case the two TextView)
+         */
+
+        public class ViewHolder extends RecyclerView.ViewHolder {
+            public final View mView;
+            public final TextView mContentView;
+            public User mStudent;
+
+            public ViewHolder(View view) {
+                super(view);
+                mView = view;
+                mContentView = (TextView) view.findViewById(R.id.content);
+            }
+
+            @Override
+            public String toString() {
+                return super.toString() + " '" + mContentView.getText() + "'";
+            }
+        }
+
+    }
+
     /**
      * sets text fields with information from user object using setters, adds user
      */
@@ -115,9 +211,7 @@ public class SignupActivity extends AppCompatActivity {
         progressDialog.setMessage("Creating Account..."); //popup for when registration passes
         progressDialog.show();
 
-        String name = _nameText.getText().toString();
-        String email = _emailText.getText().toString();
-        String password = _passwordText.getText().toString();
+
 
         user.setName(nameField.getText().toString());
         user.setEmail(emailField.getText().toString());
