@@ -8,151 +8,241 @@
         optimize="true"
         revision="25.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d6afcdb8ae9b6ec642de4d9662e4acceec112795.jar" />
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d6afcdb8ae9b6ec642de4d9662e4acceec112795.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_512fa84bd7b8ea7db91785c3d1288a1d21a823d6.jar" />
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_2b04aa040b4b429ea03274f4e949141750d056a4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_35c8fbdcb2a82ac58eb4d49cf1917c2b2df2a304.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_fff267d713ef74670c702ebe47b4b3297fb160c6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_4e27449fb4b8f3e8e366aab4a0b4ab20ab41f321.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_2048679ee6c9dce20ce6f540e529c3d71a311137.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_2374bdc0bc4486935a35989b7f3927eaaddf3bdc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_4e5eebc0915fb0099915e6b5d43c0a0cbd53b9ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_b20e5410a97e95bc54409a2ea922156f699a425a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_8ed27e9f125430a9972151c839d9243820bc4127.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_5d48e2183210815adb115ad668ed45de42b806cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_60077df77fccc93905117091b97f35b53a30d20b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_b9cfa9145ea808086c055d0cea01282fb710a250.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_a3316e28711e1eff45e14d703ba03aa7a428a6ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_94e20de143eda109081fcc9f41053983bd56ec97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_de1a4a219716c85a177d030c38d206a7be3d8d25.jar" />
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_2d300396f901905f1eeef92f7fa377f8f9501db0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_4e6eac69c7623f778db72f5ea9b8e9b87ab5fdc4.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_dccea400d4a269ceba12e8705b7cd5d83c85e673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_6bd626b7a4ff5c9ec2b47d4bc507ffaa251bdb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_c446e800096c25a90fd0d2ec85d8303a7c8a6dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_fbce58db65ad13b0f69d20840da95e061a80c3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_db09d390830f39c49590b72126b9e25fdc34c1d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_68f3ceb36be6c52780ed09608a3994c657d45db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d74f2d2676e6dd8e9eb7ce8e11d373cc3456af9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_5a1f08b1d9a16e79ae0034f7b128cc691ca7c34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_47b73c7f61164428e05838227a07fc791f22af24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_dff83c64e9fd2bb9f1b195ce287ec78524c024cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_489abbd8e1fbbaa51b33fb03e6701b54c7d4d295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_24f83758506aa3f19b13941d3407c9779c8b6f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_629ea071d5a1df02ee8a6c10f9f357b524217b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_4117e637e2c7d16dae265bab7a06c9a2da0a8332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_4944f894eca2e458a4ab192b639f191b32bbc4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_5416aff3d949e68979c5202505c1329ed6efa466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_0eef6b6ebd0563caba13387a26a997cdf72b77af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_37b35973ce2d646163f54eb1ca195fe39f785c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_4576001e096e542d4e43b6e846a04a6bf81d47a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_753f33652139c67068d9888e5412f3219b071758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_7bef08a776c5a12639ae3b01f1f5d29dd5770543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_274575631e1770dab819f4a8ffd8dec40227f1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_c4b147d7f7b0607cce29d55c5f0be1643025cd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\junit-4.12_70ccfde374f9802aa20d7a891410d9aba1b6ec7e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,25 +251,241 @@
         optimize="true"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ab1d7ba0826eab0542bee86e131303e04da83270.jar" />
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ab1d7ba0826eab0542bee86e131303e04da83270.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_50ca9d1c8da6b5f0f20977c3796b1b8e19cbc92d.jar" />
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_4d29fc871e5617a9d5b3e2716563eec35971b8c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_ca32caa55664279cdf0c1705ece44bcc26476e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_90b9135d7e90641af4595a0fc657776af452d24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_4ff14c57a89748860888fc3aa24b2f56a3c256cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_803c806209c1e67a882debcd80ab84966e7e61e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_7d5bfacfdca92835ea0ed010d0ffbae3ec61531e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_a8cce2f8c4316bd5486d1a79c3675161011630d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="D:\AndroidStudioProjects\M7-M8\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_3c46ba0a29fe0eb092c3db428cf20075fc564585.jar" />
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_abbb4847151fb6fd33a0fe61b982043f21f45b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_3cffda0f4b3129dbe0bb4279920163edd07422ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_1a5b672de74da57ec96a93117d8a8573b82af696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_d704d4c7de072cec137bcfe79ea71342634c80e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_7f5f6628c5198cc8ce8457c0c88eb797ee761ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_43c82fe504871ec7f74584698b5f0f12428c7d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_0eeb1e5107be0ce122343efb457e70a9ae5ac2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_555801bac8c895647fabc6cdec7f10475b4ad534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_a33507c359e63fed687fc302e345d231f811c9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_d72b099376367752bc06877d47d8437f0336b8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_ff04088be980a933c0dd2da7c88ebee468796892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_94e20de143eda109081fcc9f41053983bd56ec97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_8c6b615cf93f17661527a1bf369f022eb675b0fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_dec99835296e9b48c44445b4e58ac0906f510cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_692533164b4166c4011bc695713a0125eb0275c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_1e5c7ad50f00c67e411bdacef622a51c55cc27c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_791450ebdd10d01ef6e7de7261728f3daec75cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\AndroidStudioProjects\M7\M7 test\H2G0-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_def5f18a5a622aad615375155ac6598e7168945f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nilay Mehta\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="D:\AndroidStudioProjects\M9\restart 2\H2G0-master\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_32c78876af720dac2ea540d6bae62d26a2ed2000.jar" />
     </item>
 
 </items>

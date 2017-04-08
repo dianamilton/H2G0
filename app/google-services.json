@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174573449904",
+    "firebase_url": "https://h2go-d835f.firebaseio.com",
+    "project_id": "h2go-d835f",
+    "storage_bucket": "h2go-d835f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174573449904:android:5e61a0eee5b0c151",
+        "android_client_info": {
+          "package_name": "com.example.dianamilton.h2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174573449904-2btmpik05umrnelpcb6vonfotdqr7op3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dianamilton.h2go",
+            "certificate_hash": "86e31e641bfd1a1c51abdbbd42f899b9b3d7ac8d"
+          }
+        },
+        {
+          "client_id": "174573449904-deif2vo1aibnjtanbqu83q7ir4jbroof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMCJG4Wgb2RX1ZO37PQd7G8eoTq8H7xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174573449904-deif2vo1aibnjtanbqu83q7ir4jbroof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
