@@ -19,4 +19,8 @@
     <string name="title_activity_passcode">PasscodeActivity</string>
     <string name="title_activity_list">ListActivity</string>
     <string name="title_activity_water_maps">WaterMap</string>
+    <string name="facebook_app_id">269510090125711</string>
+    <string name="fb_login_protocol_scheme">fb269510090125711</string>
+
+
 </resources>

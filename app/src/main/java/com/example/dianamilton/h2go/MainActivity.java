@@ -12,13 +12,20 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.target.GlideDrawableImageViewTarget;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.android.gms.tasks.Task;
+
+import static com.example.dianamilton.h2go.R.drawable.source;
+import static com.example.dianamilton.h2go.R.id.image;
+
 
 /**
  * page to redirect to settings, logout, report, list, map
@@ -72,6 +79,10 @@ public class MainActivity extends AppCompatActivity {
                 // ...
             }
         };
+
+        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        GlideDrawableImageViewTarget imageViewTarget = new GlideDrawableImageViewTarget(imageView);
+        Glide.with(this).load(source).into(imageViewTarget);
 
         /**
          * sets up Logout Button, calls for switch screen to login page
