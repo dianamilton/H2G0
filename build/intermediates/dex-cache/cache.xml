@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-2.3.1_644806fd5ab211e516a3bf11651618f9463674bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_b5f9eca53d18150fdc033783a23a030fb9afc84b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -18,6 +36,15 @@
         revision="25.0.2"
         sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
         <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_b000b916a923d2a1364fc96676ca238d9f6ea87f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_06ee6f1e871d1caea0b48eb3fe762405ebcc3958/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,6 +102,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff55c890cd296762bd453dc5c19c1c662cd101ed">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-2.3.2_be597e7c1ea2c61f8f7ea9179e54a7c7fbd7e886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -126,6 +162,15 @@
         revision="25.0.2"
         sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
         <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.22.0_ec9db19f7f5122101371e4b5887cf79d861b2d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_794ae88e034a34ecec96300366a7c9fda385944f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -201,6 +246,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_c101e4e17accab99bff2bbcbd6e13276f43e3cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
         jumboMode="true"
         optimize="true"
@@ -219,12 +273,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_653c8b02b298d579718de400f9225fb81614a01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_81051af3fc57da4e0f20d3acb0a8eb7e19f72a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_747af2fce648fa0450c3ed6fa5307d5a3a63dc07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_6e6eee894096d7fc50841caf683d5a5110db6de1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad6b90e6ddffa59aaa35fce8d5c2f29624ae251">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-2.3.1_7e36ff6684b8e99d1b3efd094934b6035d02c7d3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -277,7 +367,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="864000e33b2279115e778b6eb9ffa28ef5987598">
+        sha1="396d33d8839dd179f20ee1947ea5fa1075e4f088">
         <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e99d00e1a3efc0beb0efe55d6bbeeaaad20f881/classes.dex" />
     </item>
     <item
@@ -345,6 +435,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_db71a7fd05d6cf487fd86c1c3a6ab4a05db3675a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
         jumboMode="true"
         optimize="true"
@@ -363,6 +462,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="393af63066510aacf05c7adcc3e4a3aab058b5f4">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-2.3.2_e77438326e25fa6623ca1ff1925ffc89e54496e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.16/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="263c1c941f603469ecbaf8745f7b2d18ae85c5c0">
+        <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.16_f5dad47f2caa667c4dc059629dc9ad24e0c022ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -376,7 +493,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3aa145fbff778670e35cf13829f9989d45c62251">
+        sha1="91870e3995e2d6348662c8604ae3c2f3da7e9c1c">
         <dex dex="/Users/dianamilton/Downloads/H2G0-master-4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c9ff367a38ee8f36e103f99b536020d1c4c890e/classes.dex" />
     </item>
     <item
