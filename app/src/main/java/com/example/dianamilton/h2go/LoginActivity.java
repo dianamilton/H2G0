@@ -74,7 +74,8 @@ public class LoginActivity extends AppCompatActivity {
     LoginButton _fbButton;
     CallbackManager callbackManager;
     Button btnZoomOut;
-    Animation animation;
+    Animation animationIn;
+    Animation animationOut;
     ImageView h2g0logo;
     Button btnZoomIn;
 
@@ -170,25 +171,25 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        animation = AnimationUtils.loadAnimation(getApplicationContext(),
+        animationIn = AnimationUtils.loadAnimation(getApplicationContext(),
                 R.anim.zoom_in);
         // Zoom In
-        btnZoomOut.setOnClickListener(new View.OnClickListener() {
+        btnZoomIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 h2g0logo.setVisibility(View.VISIBLE);
-                h2g0logo.startAnimation(animation);
+                h2g0logo.startAnimation(animationIn);
             }
         });
 
-        animation = AnimationUtils.loadAnimation(getApplicationContext(),
+        animationOut = AnimationUtils.loadAnimation(getApplicationContext(),
                 R.anim.zoom_out);
         // Zoom Out
         btnZoomOut.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 h2g0logo.setVisibility(View.VISIBLE);
-                h2g0logo.startAnimation(animation);
+                h2g0logo.startAnimation(animationOut);
             }
         });
 
